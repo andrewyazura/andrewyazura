@@ -1,6 +1,6 @@
 # I'm Andrew Yatsura 👨‍💻
 
-I'm from  🇺🇦 Ukraine.
+I'm from  🇺🇦 Kyiv, Ukraine.
 
 My main programming language is 🐍 Python.
 
@@ -9,14 +9,14 @@ Other languages:
 - C/C++ for Arduino
 - HTML and CSS
 
-Technologies I have some expirience with:
+I have expirience with:
 - Telegram Bots API
 - Flask
-- React.JS
+- React
 - GraphQL
+- Raspberry Pi
 
 My hobbies include:
-- 💻 Hardware projects
-  - Arduino and Raspberry Pi
-- 🎮 Gaming
-- 🏊‍♂️ Swimming
+- Hardware projects on Arduino
+- Swimming
+- Playing guitar
