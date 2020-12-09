@@ -2,21 +2,24 @@
 
 I'm from  🇺🇦 Kyiv, Ukraine.
 
-My main programming language is 🐍 Python.
+My main programming language is 🐍 **Python**.
 
-Other languages:
+### Other languages
+
 - JavaScript
 - C/C++ for Arduino
 - HTML and CSS
 
-I have expirience with:
+### I have expirience with
+
 - Telegram Bots API
 - Flask
 - React
 - GraphQL
 - Raspberry Pi
 
-My hobbies include:
+### My hobbies
+
 - Hardware projects on Arduino
 - Swimming
 - Playing guitar
