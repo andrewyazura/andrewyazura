@@ -10,7 +10,7 @@ My main programming language is 🐍 **Python**.
 - C/C++ for Arduino
 - HTML and CSS
 
-### I have expirience with
+## I have expirience with
 
 - Telegram Bots API
 - Flask
@@ -18,8 +18,11 @@ My main programming language is 🐍 **Python**.
 - GraphQL
 - Raspberry Pi
 
-### My hobbies
+## My hobbies
 
-- Hardware projects on Arduino
-- Swimming
+- 🎄 Advent of Code
+  - [2020 solutions](https://github.com/andrewyazura/aoc-2020)
+  - Other years are coming...
+- 💽 Hardware projects on Arduino
+- 🏊‍♂️ Swimming
 - Playing guitar
