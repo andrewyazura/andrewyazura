@@ -1,18 +1,18 @@
 # I'm Andrew Yatsura 👨‍💻
+![Main language](https://img.shields.io/static/v1?logo=python&color=3776ab&style=flat&label=Code&message=Python) ![Operating System](https://img.shields.io/static/v1?logo=ubuntu&color=e95420&style=flat&label=OS&message=Ubuntu)
 
 I'm from  🇺🇦 Kyiv, Ukraine.
 
-My main programming language is 🐍 **Python**.
+### Programming languages
 
-### Other languages
-
+- 🐍 **Python**
 - JavaScript
 - C/C++ for Arduino
 - HTML and CSS
 
 ## I have expirience with
 
-- Telegram Bots API
+- Telegram Bots
 - Flask
 - React
 - GraphQL
