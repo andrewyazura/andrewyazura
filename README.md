@@ -6,6 +6,31 @@
 
 I'm from  🇺🇦 Kyiv, Ukraine.
 
+# My projects
+
+## #brobots eco
+
+**#brobots eco** is a net of sensors that measure air quality in Brovary, Ukraine. You can see live data at [eco.brobots.org.ua](http://eco.brobots.org.ua/).
+
+Repositories:
+- Frontend part: [link](https://github.com/brobots-hub/ecobrobotsfrontend)
+- Backend part: [link](https://github.com/brobots-hub/ecobrobotsbackend)
+
+## Bank of #brobots
+
+Application for [#brobots school](https://github.com/brobots-hub). Allows you to send and receive internal school currency called **brocoins**.
+
+Repositories:
+- Telegram bot: [link](https://github.com/andrewyazura/bank-of-brobots-bot)
+- Backend API: [link](https://github.com/andrewyazura/bank-of-brobots-api)
+
+## Other projects
+
+- brobots homework bot
+  - This is a telegram bot that allows students to send their homework to teacher in a single chat. Was replaced by Google Classroom
+- brobots food bot
+  - Telegram bot for getting food orders from students or their parents. Bot requests orders every working day at a specified time and sends them to admin. 
+
 ## Programming languages
 
 - 🐍 **Python**
