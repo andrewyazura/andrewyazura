@@ -6,7 +6,7 @@
 
 I'm from  🇺🇦 Kyiv, Ukraine.
 
-### Programming languages
+## Programming languages
 
 - 🐍 **Python**
 - JavaScript
