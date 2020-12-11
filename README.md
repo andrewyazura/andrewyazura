@@ -25,4 +25,4 @@ I'm from  🇺🇦 Kyiv, Ukraine.
   - Other years are coming...
 - 💽 Hardware projects on Arduino
 - 🏊‍♂️ Swimming
-- Playing guitar
+- 🎸 Playing guitar
