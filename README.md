@@ -31,6 +31,8 @@ Repositories:
 - brobots food bot
   - Telegram bot for getting food orders from students or their parents. Bot requests orders every working day at a specified time and sends them to admin. 
 
+# Skills
+
 ## Programming languages
 
 - 🐍 **Python**
