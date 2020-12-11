@@ -1,5 +1,8 @@
 # I'm Andrew Yatsura 👨‍💻
-![Main language](https://img.shields.io/static/v1?logo=python&color=3776ab&style=flat&label=Code&message=Python) ![Operating System](https://img.shields.io/static/v1?logo=ubuntu&color=e95420&style=flat&label=OS&message=Ubuntu)
+![Operating System: Ubuntu on WSL](https://img.shields.io/static/v1?logo=ubuntu&color=e95420&style=flat&label=OS&message=Ubuntu)
+![Main language: Python](https://img.shields.io/static/v1?logo=python&color=3776ab&style=flat&label=Code&message=Python)
+![Secondary language: JavaScript](https://img.shields.io/static/v1?logo=javascript&color=f7df1e&style=flat&label=Code&message=JavaScript)
+![Code Editor: VS Code](https://img.shields.io/static/v1?logo=visual-studio-code&color=007acc&style=flat&label=Editor&message=VSCode)
 
 I'm from  🇺🇦 Kyiv, Ukraine.
 
