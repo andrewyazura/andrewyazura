@@ -4,9 +4,9 @@
 ![Secondary language: JavaScript](https://img.shields.io/static/v1?logo=javascript&color=f7df1e&style=flat&label=Code&message=JavaScript)
 ![Code Editor: VS Code](https://img.shields.io/static/v1?logo=visual-studio-code&color=007acc&style=flat&label=Editor&message=VS%20Code)
 
-I'm from  🇺🇦 Kyiv, Ukraine.
+I'm a student from  🇺🇦 Kyiv, Ukraine.
 
-# My projects
+# Projects
 
 ## #brobots eco
 
