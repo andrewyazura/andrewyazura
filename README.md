@@ -9,6 +9,9 @@ I'm a student from  🇺🇦 Kyiv, Ukraine.
 # Projects
 
 ## #brobots eco
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/brobots-hub/ecobrobotsbackend?style=flat&logo=github&labelColor=181717&color=F8F8F5)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/brobots-hub/ecobrobotsbackend/unit-tests?style=flat&logo=github&labelColor=181717&color=brightgreen)
+[![#brobots eco website](https://img.shields.io/badge/%23brobots-eco-fff000)](http://eco.brobots.org.ua)
 
 **#brobots eco** is a net of sensors that measure air quality in Brovary, Ukraine. You can see live data at [eco.brobots.org.ua](http://eco.brobots.org.ua/).
 
@@ -17,6 +20,7 @@ Repositories:
 - Backend part: [link](https://github.com/brobots-hub/ecobrobotsbackend)
 
 ## Bank of #brobots
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/andrew4ever/bank-of-brobots-api) ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/andrew4ever/bank-of-brobots-api/Bank%20API%20CI)
 
 Application for [#brobots school](https://github.com/brobots-hub). Allows you to send and receive internal school currency called **brocoins**.
 
@@ -52,6 +56,7 @@ Repositories:
 
 - 🎄 Advent of Code
   - [2020 solutions](https://github.com/andrewyazura/aoc-2020)
+  - [2019 solutions](https://github.com/andrewyazura/aoc-2019)
   - Other years are coming...
 - 💽 Hardware projects on Arduino
 - 🏊‍♂️ Swimming
