@@ -1,6 +1,6 @@
 # I'm Andrew Yatsura 👨‍💻
 
-- Student from  🇺🇦 Kyiv, Ukraine
+- Student from  🇺🇦 **Kyiv, Ukraine**
 - **Python** and **JavaScript** developer
 - **Telegram bot** developer
 - **Raspberry Pi** enthusiast
