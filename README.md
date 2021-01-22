@@ -21,7 +21,8 @@ Repositories:
 - Backend repo: [link](https://github.com/brobots-hub/ecobrobotsbackend)
 
 ## Bank of #brobots
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/andrew4ever/bank-of-brobots-api) ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/andrew4ever/bank-of-brobots-api/Bank%20API%20CI)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/andrew4ever/bank-of-brobots-api?style=flat&logo=github&labelColor=181717&color=F8F8F5)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/andrew4ever/bank-of-brobots-api/Bank%20API%20CI?style=flat&logo=github&labelColor=181717&color=brightgreen)
 
 [#brobots school](https://github.com/brobots-hub) has an internal currency called **brocoins**. Students get them as a reward for projects and good grades. They can buy some new hardware for the next projects using them. I created a bank that allows students to manage their **brocoins** using the Telegram bot.
 
