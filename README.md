@@ -37,11 +37,13 @@ Repositories:
 
 # Skills
 
-## Programming languages
+## Languages
 
 - Python
 - JavaScript
 - C/C++ for Arduino
+- SQL
+- HTML/CSS
 
 ## I have experience with
 
