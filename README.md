@@ -1,4 +1,4 @@
-# I'm Andrew Yatsura 👨‍💻
+# Hi, I'm Andrew Yatsura 👨‍💻
 
 - Student from  🇺🇦 **Kyiv, Ukraine**
 - **Python** and **JavaScript** developer
