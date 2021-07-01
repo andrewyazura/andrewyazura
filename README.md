@@ -30,10 +30,17 @@ Repositories:
 - Telegram bot: [link](https://github.com/andrewyazura/bank-of-brobots-bot)
 - Backend: [link](https://github.com/andrewyazura/bank-of-brobots-api)
 
-## Other projects
+## Unnatural language generation
 
-- #brobots homework bot
-  - Google Classroom implementation in Telegram. This bot allows students to send their homework to teachers.
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/andrewyazura/unnatural-language-generation?include_prereleases&label=release&labelColor=181717&logo=github)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/andrewyazura/unnatural-language-generation/Lint?label=linter&labelColor=181717&logo=github)
+[![Telegram Bot Link](https://img.shields.io/static/v1?label=telegram&message=bot&color=26a5e4&labelColor=181717&logo=telegram)](https://t.me/unnatural_language_bot)
+
+Generation of nonsense in Ukrainian based on texts given by users. 
+Active telegram bot - [@unnatural_language_bot](https://t.me/unnatural_language_bot).
+Read more there: [GitHub README](https://github.com/andrewyazura/unnatural-language-generation#readme)
+
+Repository: [link](https://github.com/andrewyazura/unnatural-language-generation)
 
 # Skills
 
@@ -42,7 +49,6 @@ Repositories:
 - Python
 - JavaScript
 - C/C++ for Arduino
-- SQL
 - HTML/CSS
 
 ## I have experience with
@@ -59,5 +65,5 @@ Repositories:
   - [2020 solutions](https://github.com/andrewyazura/aoc-2020)
   - [2019 solutions](https://github.com/andrewyazura/aoc-2019)
 - 💽 Hardware projects on Arduino
-- 🏊‍♂️ Swimming
 - 🎸 Playing guitar
+- 🏊‍♂️ Swimming
