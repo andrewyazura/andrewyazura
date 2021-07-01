@@ -40,9 +40,9 @@ Repositories:
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/andrewyazura/unnatural-language-generation/Lint?label=linter&labelColor=181717&logo=github)
 [![Telegram Bot Link](https://img.shields.io/static/v1?label=telegram&message=bot&color=26a5e4&labelColor=181717&logo=telegram)](https://t.me/unnatural_language_bot)
 
-Generation of nonsense in Ukrainian language based on texts given by users. 
+Generator of nonsense in Ukrainian language that uses texts given by users.
+Doesn't understand context nor grammar, but can eventually create some decent phrases.
 Active telegram bot - [@unnatural_language_bot](https://t.me/unnatural_language_bot).
-Read more there: [GitHub README](https://github.com/andrewyazura/unnatural-language-generation#readme)
 
 Repository: [link](https://github.com/andrewyazura/unnatural-language-generation)
 
