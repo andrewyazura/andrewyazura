@@ -34,10 +34,10 @@ Repositories:
 - Telegram bot: [link](https://github.com/andrewyazura/bank-of-brobots-bot)
 - Backend: [link](https://github.com/andrewyazura/bank-of-brobots-api)
 
-## Unnatural language generation in Ukrainian
+## Unnatural language generation
 
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/andrewyazura/unnatural-language-generation?include_prereleases&label=release&labelColor=181717&logo=github)
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/andrewyazura/unnatural-language-generation/Lint?label=linter&labelColor=181717&logo=github)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/andrewyazura/unnatural-language-generation/lint?label=linter&labelColor=181717&logo=github)
 [![Telegram Bot Link](https://img.shields.io/static/v1?label=telegram&message=bot&color=26a5e4&labelColor=181717&logo=telegram)](https://t.me/unnatural_language_bot)
 
 Generator of nonsense in Ukrainian that uses texts given by users.
