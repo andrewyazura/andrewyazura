@@ -1,9 +1,6 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://stand-with-ukraine.pp.ua)
 
-![A photo of night sky taken by me in 2020](./assets/stars.jpg)
+# 👋 Hi, I'm Andrew Yatsura
 
-# Hi, I'm Andrew Yatsura
-
-I work as a backend developer in fintech during the day,
-and try to keep up with current trends in development and ML
-during the night.
+![personal stats](https://github-readme-stats.vercel.app/api?username=andrewyazura&show_icons=true&theme=dark)
+![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewyazura&show_icons=true&theme=dark&layout=donut&size_weight=0.5&count_weight=0.5)
